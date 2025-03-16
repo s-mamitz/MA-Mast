@@ -17,7 +17,7 @@ MA-Mast/
 │   │   └── (Einzelskripte)
 │   ├── 04 Gesamttabelle auf Konsistenz überprüfen (neben OpenRefine)
 │   │   └── (Einzelskripte)
-│   ├── 05 Gesamttabelle für inhaltlich abschließen (nach OpenRefine)
+│   ├── 05 Gesamttabelle inhaltlich abschließen (nach OpenRefine)
 │   │   └── (Einzelskripte)
 │   └── 06 Importtabellen erstellen (Amtsbezeichnungen, Amtsstellen)
 │   │   └── (Einzelskripte)
