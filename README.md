@@ -31,8 +31,8 @@ MA-Mast/
 │   │   └── (Notebooks und Requirements)
 └── README.md
 ```
-### Ausgangsdaten des citizen scientists
-Zugunsten der Nachvollziebarkeit wurden in ihrer Ursprünglichkeit erhaltene Erschließungsdaten für die Jahrgänge 1771–1779 aus dem Erschließungsinstrument Google Sheets heruntergeladen und hier als CSV-Dateien zur Verfügung stellt. Die Daten können stellenweise in Struktur und Inhalt stark vom Enddatendatz in FactGrid abweichen.
+### Ausgangsdaten des _citizen scientists_
+Zugunsten der Nachvollziebarkeit wurden in ihrer Ursprünglichkeit erhaltene Erschließungsdaten für die Jahrgänge 1771–1779 aus dem Erschließungsinstrument Google Sheets heruntergeladen und hier als _CSV_-Dateien zur Verfügung stellt. Die Daten können stellenweise in Struktur und Inhalt stark vom Enddatendatz in FactGrid abweichen.
 ### Python-Teilworkflows
 Dieses Repository enthält zum einen ausgewählte Skripte der für die Masterarbeitarbeit erstellten und verwendeten Python-Teilworkflows. Aufgabe dieser ist lediglich paradigmatisch die Bearbeitungsschritte der durch einen _Citizen Scientist_ erhobenen Amtskalenderdaten nachvollziehbar zu machen. Teilweise wurden Datensätze manuell bearbeitet, bauten auf Datenbereinigungen in OpenRefine auf oder zogen temporäre Dateien hinzu. Diese Schritte können im Repository nicht abgebildet werden, sodass die hier zur Verfügung gestellten Skripte ledigliche illustrativen, aber keinen produktiven Charakter haben. Das Dateinamenmanagement wurde maschinell angepasst, um den  Workflow übersichtlicher zusammenzuführen. So können unter umständen Interferenzen entstanden sein!
 ### Deepnote Visualisierungen
